@@ -1,0 +1,1 @@
+g++ -std=c++11 -I/comptes/goualard-f/local/tbb/include -o example example.cpp -L/comptes/goualard-f/local/tbb/lib/intel64/cc4.1.0_libc2.4_kernel2.6.16.21 -ltbb
